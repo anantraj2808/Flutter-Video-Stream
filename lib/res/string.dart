@@ -4,7 +4,8 @@ import 'package:flutter_stream/secrets.dart';
 const muxBaseUrl = 'https://api.mux.com';
 
 // API server running on localhost
-const muxServerUrl = 'http://localhost:3000';
+const muxServerUrl = 'http://192.168.43.238:3000';
+//const muxServerUrl = 'http://4faf90c7f897.ngrok.io';
 
 // API for generating thumbnails of a video
 const muxImageBaseUrl = 'https://image.mux.com';
